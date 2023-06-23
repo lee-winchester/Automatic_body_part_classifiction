@@ -1,0 +1,140 @@
+@Article{7769199,
+  author  = {Kumar, Ashnil and Kim, Jinman and Lyndon, David and Fulham, Michael and Feng, Dagan},
+  journal = {IEEE Journal of Biomedical and Health Informatics},
+  title   = {An Ensemble of Fine-Tuned Convolutional Neural Networks for Medical Image Classification},
+  year    = {2017},
+  number  = {1},
+  pages   = {31-40},
+  volume  = {21},
+  doi     = {10.1109/JBHI.2016.2635663},
+}
+
+@Article{8979439,
+  author  = {Ahn, Euijoon and Kumar, Ashnil and Fulham, Michael and Feng, Dagan and Kim, Jinman},
+  journal = {IEEE Transactions on Medical Imaging},
+  title   = {Unsupervised Domain Adaptation to Classify Medical Images Using Zero-Bias Convolutional Auto-Encoders and Context-Based Feature Augmentation},
+  year    = {2020},
+  number  = {7},
+  pages   = {2385-2394},
+  volume  = {39},
+  doi     = {10.1109/TMI.2020.2971258},
+}
+@article{BARSHOOI2022103326,
+title = {A novel data augmentation based on Gabor filter and convolutional deep learning for improving the classification of COVID-19 chest X-Ray images},
+journal = {Biomedical Signal Processing and Control},
+volume = {72},
+pages = {103326},
+year = {2022},
+issn = {1746-8094},
+doi = {https://doi.org/10.1016/j.bspc.2021.103326},
+url = {https://www.sciencedirect.com/science/article/pii/S174680942100923X},
+author = {Amir Hossein Barshooi and Abdollah Amirkhani},
+keywords = {COVID-19, Generative adversarial network, Classification, Gabor, Data augmentation, Deep learning},
+}
+
+@article{Zare_Seng_Mueen_2013, title={Automatic Classification Of Medical X-Ray Images}, volume={26}, url={https://mjir.um.edu.my/index.php/MJCS/article/view/6725}, DOI={10.22452/mjcs.vol26no1.2}, number={1}, journal={Malaysian Journal of Computer Science}, author={Zare, Mohammad Reza and Seng, Woo Chaw and Mueen, Ahmed}, year={2013}, month={Mar.}, pages={9–22} }
+
+@ARTICLE{5643927,
+  author={Avni, Uri and Greenspan, Hayit and Konen, Eli and Sharon, Michal and Goldberger, Jacob},
+  journal={IEEE Transactions on Medical Imaging}, 
+  title={X-ray Categorization and Retrieval on the Organ and Pathology Level, Using Patch-Based Visual Words}, 
+  year={2011},
+  volume={30},
+  number={3},
+  pages={733-746},
+  doi={10.1109/TMI.2010.2095026}}
+
+@INPROCEEDINGS{8464688,
+  author={Zare, Mohammad Reza and Alebiosu, David Olayemi and Lee, Sheng Long},
+  booktitle={2018 Fourth International Conference on Information Retrieval and Knowledge Management (CAMP)}, 
+  title={Comparison of Handcrafted Features and Deep Learning in Classification of Medical X-ray Images}, 
+  year={2018},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/INFRKM.2018.8464688}}
+
+@INPROCEEDINGS{7493400,
+  author={Ahn, Euijoon and Kumar, Ashnil and Kim, Jinman and Li, Changyang and Feng, Dagan and Fulham, Michael},
+  booktitle={2016 IEEE 13th International Symposium on Biomedical Imaging (ISBI)}, 
+  title={X-ray image classification using domain transferred convolutional neural networks and local sparse spatial pyramid}, 
+  year={2016},
+  volume={},
+  number={},
+  pages={855-858},
+  doi={10.1109/ISBI.2016.7493400}}
+
+@inproceedings{choi2015x,
+  title={X-ray Image Body Part Clustering using Deep Convolutional Neural Network: SNUMedinfo at ImageCLEF 2015 Medical Clustering Task.},
+  author={Choi, Sungbin},
+  booktitle={CLEF (Working Notes)},
+  year={2015}
+}
+
+@article{ko2011x,
+  title={X-ray image classification using random forests with local wavelet-based CS-local binary patterns},
+  author={Ko, Byoung Chul and Kim, Seong Hoon and Nam, Jae-Yeal},
+  journal={Journal of digital imaging},
+  volume={24},
+  pages={1141--1151},
+  year={2011},
+  publisher={Springer}
+}
+
+@INPROCEEDINGS{4570523,
+  author={Guangjian Tian and Hong Fu and Dagan Feng, David},
+  booktitle={2008 International Conference on Information Technology and Applications in Biomedicine}, 
+  title={Automatic medical image categorization and annotation using LBP and MPEG-7 edge histograms}, 
+  year={2008},
+  volume={},
+  number={},
+  pages={51-53},
+  doi={10.1109/ITAB.2008.4570523}}
+@article{mueen2008automatic,
+  title={Automatic multilevel medical image annotation and retrieval},
+  author={Mueen, Ahmed and Zainuddin, R and Baba, M Sapiyan},
+  journal={Journal of digital imaging},
+  volume={21},
+  pages={290--295},
+  year={2008},
+  publisher={Springer}
+}
+@inproceedings{madani2018chest,
+  title={Chest x-ray generation and data augmentation for cardiovascular abnormality classification},
+  author={Madani, Ali and Moradi, Mehdi and Karargyris, Alexandros and Syeda-Mahmood, Tanveer},
+  booktitle={Medical imaging 2018: Image processing},
+  volume={10574},
+  pages={415--420},
+  year={2018},
+  organization={SPIE}
+}
+@inproceedings{ahn2016x,
+  title={X-ray image classification using domain transferred convolutional neural networks and local sparse spatial pyramid},
+  author={Ahn, Euijoon and Kumar, Ashnil and Kim, Jinman and Li, Changyang and Feng, Dagan and Fulham, Michael},
+  booktitle={2016 IEEE 13th international symposium on biomedical imaging (ISBI)},
+  pages={855--858},
+  year={2016},
+  organization={IEEE}
+}
+
+@article{gielczyk2022pre,
+  title={Pre-processing methods in chest X-ray image classification},
+  author={Gie{\l}czyk, Agata and Marciniak, Anna and Tarczewska, Martyna and Lutowski, Zbigniew},
+  journal={Plos one},
+  volume={17},
+  number={4},
+  pages={e0265949},
+  year={2022},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+@inproceedings{thamilarasi2021automatic,
+  title={Automatic classification and accuracy by deep learning using cnn methods in lung chest x-ray images},
+  author={Thamilarasi, V and Roselin, R},
+  booktitle={IOP Conference Series: Materials Science and Engineering},
+  volume={1055},
+  number={1},
+  pages={012099},
+  year={2021},
+  organization={IOP Publishing}
+}
+@Comment{jabref-meta: databaseType:bibtex;}
